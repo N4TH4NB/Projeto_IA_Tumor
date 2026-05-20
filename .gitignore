@@ -159,3 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 outputs/models/best_model.pth
+outputs/models/complete_checkpoint.pth
+outputs/models/final_model_weights.pth
